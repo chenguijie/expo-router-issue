@@ -3,7 +3,7 @@
     "name": "layout-error",
     "slug": "layout-error",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "landscape",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
